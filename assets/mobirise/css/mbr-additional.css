@@ -872,21 +872,21 @@ body {
   justify-content: center;
   flex-wrap: wrap;
   align-items: stretch;
-  background-color: #0c57bf;
+  background-color: #1a4090;
 }
 .cid-qCvnqtw04k .box-item {
   width: 29%;
   padding: 2.5rem;
 }
 .cid-qCvnqtw04k .box-item:first-child {
-  background-color: #4284df;
+  background-color: #0c57bf;
   margin-top: -200px;
 }
 .cid-qCvnqtw04k .box-item:nth-child(2) {
   background-color: #04367c;
 }
 .cid-qCvnqtw04k .box-item:last-child {
-  background-color: #0c57bf;
+  background-color: #4284df;
 }
 .cid-qCvnqtw04k .box-list {
   padding-left: 0;
@@ -1762,7 +1762,7 @@ body {
   }
 }
 .cid-qCzDWBT8Rc {
-  padding-top: 45px;
+  padding-top: 30px;
   padding-bottom: 15px;
   background-color: #4284df;
 }
@@ -2127,4 +2127,7 @@ body {
   border-bottom-right-radius: 3px;
   border-top-left-radius: 3px;
   border-bottom-left-radius: 3px;
+}
+.cid-qCvqWBrkJE P {
+  text-align: left;
 }
