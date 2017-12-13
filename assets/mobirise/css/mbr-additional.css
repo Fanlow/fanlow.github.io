@@ -1719,7 +1719,7 @@ body {
   content: '90';
 }
 .cid-qCvprZMbxv .progress3 .progressbar-number:before {
-  content: '80';
+  content: '95';
 }
 .cid-qCvprZMbxv .progress4 .progressbar-number:before {
   content: '70';
@@ -1794,7 +1794,7 @@ body {
   color: #4284df;
 }
 .cid-qCvpeLqAdB {
-  padding-top: 0px;
+  padding-top: 15px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/untitled-design-51-2000x657.jpg");
 }
@@ -1819,6 +1819,21 @@ body {
 .cid-qCvpeLqAdB .card:hover .card-img span {
   background: none;
   color: #4284df;
+}
+.cid-qDyBP7fBl3 {
+  padding-top: 140px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/african-mobile-phone-2000x1000.jpg");
+}
+.cid-qDyBP7fBl3 .media-container-column .btn-bgr {
+  z-index: 0;
+}
+.cid-qDyBP7fBl3 .mbr-overlay {
+  background: linear-gradient(#0c57bf -10%, #0c57bf 75%);
+}
+.cid-qDyBP7fBl3 .mbr-text,
+.cid-qDyBP7fBl3 .mbr-section-btn {
+  text-align: center;
 }
 .cid-qCvrp4rFyI {
   padding-top: 90px;
@@ -1972,7 +1987,7 @@ body {
 }
 .cid-qCvrLo6xoi {
   padding-top: 30px;
-  padding-bottom: 90px;
+  padding-bottom: 60px;
   background: #4284df;
 }
 .cid-qCvrLo6xoi .plan-body .btn-bgr {
@@ -2032,6 +2047,71 @@ body {
   .cid-qCvrLo6xoi .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-qDG61ex2rM {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #4284df;
+}
+.cid-qDG61ex2rM .media-container-row .mbr-text {
+  text-align: center;
+}
+.cid-qDG61ex2rM .media-container-row .mbr-text B {
+  color: #ffffff;
+}
+.cid-qDGnlKlVjG {
+  padding-top: 15px;
+  padding-bottom: 60px;
+  background-color: #4284df;
+}
+.cid-qDGnlKlVjG .mbr-text {
+  color: #ffffff;
+}
+.cid-qDGnlKlVjG .media-container-row {
+  flex-wrap: wrap;
+}
+.cid-qDGnlKlVjG .card-item {
+  display: flex;
+  justify-content: flex-start;
+}
+.cid-qDGnlKlVjG .card-item .card-icon {
+  margin: 0 0.5rem 1rem;
+}
+.cid-qDGnlKlVjG .card-item .card-icon span {
+  font-size: 4rem;
+  padding: 0.5rem;
+  color: #ffffff;
+  -webkit-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+  -moz-transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+  transition: transform 0.4s cubic-bezier(0.38, 3, 0.57, 1.6);
+}
+.cid-qDGnlKlVjG .card-item:hover .card-icon span {
+  -webkit-transform: translate3d(0, -5px, 0);
+  -moz-transform: translate3d(0, -5px, 0);
+  transform: translate3d(0, -5px, 0);
+}
+@media (min-width: 577px) {
+  .cid-qDGnlKlVjG .card-item .card-icon {
+    margin-right: 2rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-qDGnlKlVjG .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+  }
+}
+@media (max-width: 576px) {
+  .cid-qDGnlKlVjG .card-item {
+    padding: 0 0 1rem!important;
+  }
+  .cid-qDGnlKlVjG .card-item .card-icon span {
+    font-size: 3rem;
+  }
+}
+.cid-qDGnlKlVjG .card-title B {
+  color: #ffffff;
 }
 .cid-qCzSSdCKy1 {
   padding-top: 120px;
