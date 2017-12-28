@@ -2180,6 +2180,71 @@ body {
 .cid-qDWIvJ7Vc4 .card-title FONT {
   color: #4284df;
 }
+.cid-qF7fgdxXLX {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background: linear-gradient(45deg, #04367c, #4284df);
+}
+.cid-qF7fgdxXLX .plan-body .btn-bgr {
+  z-index: 0;
+}
+.cid-qF7fgdxXLX .list-group-item {
+  padding: .5rem 3.25rem;
+}
+.cid-qF7fgdxXLX .price-term {
+  display: block;
+  line-height: 1;
+  margin-top: 0.45rem;
+}
+.cid-qF7fgdxXLX .plan-title {
+  background-color: #4284df;
+}
+.cid-qF7fgdxXLX .plan-header {
+  border-radius: 8px 8px 0 0;
+  overflow: hidden;
+}
+.cid-qF7fgdxXLX .plan-body {
+  border-radius: 0 0 8px 8px;
+}
+.cid-qF7fgdxXLX .plan {
+  position: relative;
+  max-width: 330px;
+  padding-right: 0;
+  padding-left: 0;
+  color: #767676;
+}
+.cid-qF7fgdxXLX .plan .list-group-item {
+  position: relative;
+  -webkit-justify-content: center;
+  justify-content: center;
+  border: 0;
+}
+.cid-qF7fgdxXLX .plan .list-group-item:last-child {
+  border-radius: 8px;
+}
+.cid-qF7fgdxXLX .plan:nth-child(2) .plan-title {
+  background-color: #eb4e6f;
+}
+.cid-qF7fgdxXLX .plan-header,
+.cid-qF7fgdxXLX .plan-body {
+  background-color: #fff;
+  border-bottom: solid 2px #ededed;
+}
+.cid-qF7fgdxXLX .price-figure {
+  font-weight: 600;
+  color: #232323;
+}
+.cid-qF7fgdxXLX .price-value {
+  font-weight: 700;
+  vertical-align: top;
+  line-height: 1;
+  margin-right: 0.25rem;
+}
+@media (max-width: 550px) {
+  .cid-qF7fgdxXLX .price-figure {
+    font-size: 4.25rem;
+  }
+}
 .cid-qEDYf6D4HB {
   padding-top: 90px;
   padding-bottom: 90px;
