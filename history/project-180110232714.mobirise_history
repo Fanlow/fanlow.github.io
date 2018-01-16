@@ -35,7 +35,7 @@
     },
     "versionFirst": "4.5.0",
     "uniqCompNum": 97,
-    "versionPublish": "4.5.4",
+    "versionPublish": "4.5.2",
     "favicon": "@PROJECT_PATH@/assets/images/fanlow-owl-logo-main-128x191.png",
     "noImageResize": "",
     "google-analytics": "",
@@ -159,9 +159,30 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": true,
+            "showArrow": false,
+            "imageSize": 30,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#bf359d",
+            "containerColor2": "#dc4c35",
+            "containerColor3": "#fdff81",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.8
+          }
         },
         {
           "_styles": {
@@ -243,8 +264,6 @@
           "_cid": "qCvqobDFox",
           "_anchor": "social-buttons1-i",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -265,9 +284,27 @@
           "_cid": "qCyPW9W4CJ",
           "_anchor": "header9-v",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "showArrow": true,
+            "imageSize": 55,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#00A8C5",
+            "containerColor2": "#FFFF7E",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          }
         },
         {
           "_styles": {
@@ -347,9 +384,33 @@
           "_cid": "qCvoQesCNW",
           "_anchor": "features4-8",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "#616161",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/features/features4.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.8
+          }
         },
         {
           "_styles": {
@@ -477,8 +538,6 @@
           "_cid": "qCvprZMbxv",
           "_anchor": "progress-bars2-f",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -498,9 +557,11 @@
           "_cid": "qCzDWBT8Rc",
           "_anchor": "content1-11",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          }
         },
         {
           "_styles": {
@@ -548,9 +609,33 @@
           "_cid": "qCvpcpPzWy",
           "_anchor": "features2-a",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "left",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          }
         },
         {
           "_styles": {
@@ -598,9 +683,33 @@
           "_cid": "qCvpeLqAdB",
           "_anchor": "features2-b",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": true,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "left",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          }
         },
         {
           "_styles": {
@@ -619,9 +728,11 @@
           "_cid": "qCzGQG7pjU",
           "_anchor": "content1-12",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          }
         },
         {
           "_styles": {
@@ -698,12 +809,10 @@
             }
           },
           "_name": "pricing-tables3",
-          "_customHTML": "<section group=\"Pricing Tables\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Card Color\" name=\"cardColor\" value=\"#efefef\">\n        <input type=\"range\" inline title=\"Card Opacity\" name=\"cardOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"1\">\n        \n        <select title=\"Items Count\" name=\"itemsCount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#4284df\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#0c57bf\" condition=\"bg.type=='color'&&gradientBg\">\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 0\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social 1</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">\n                            $175</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per month</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant\n</li><li class=\"list-group-item\">Social Media Assessment</li><li class=\"list-group-item\">2 Social Media Platforms</li><li class=\"list-group-item\">4 Social Media Post/ Week</li><li class=\"list-group-item\">Social Analytics\n</li><li class=\"list-group-item\">Reputation Monitoring</li><li class=\"list-group-item\">*Instagram (Addl Cost)</li><li class=\"list-group-item\"><br></li><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://form.jotform.com/80151643984157\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 1\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social 2</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">\n                            $275</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per month</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant\n</li><li class=\"list-group-item\">Social Media Assessment</li><li class=\"list-group-item\">4 Social Media Platforms</li><li class=\"list-group-item\">7 Social Media Post/ Week \n</li><li class=\"list-group-item\">Social Analytics\n</li><li class=\"list-group-item\">Reputation Monitoring\n</li><li class=\"list-group-item\">3 Custom Graphics&nbsp;</li><li class=\"list-group-item\">&nbsp;</li><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://form.jotform.com/80151643984157\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 2\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social Plus</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">$325</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per campaign</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant\n</li><li class=\"list-group-item\">Social Media Assessment\n</li><li class=\"list-group-item\">1 Social Media Platform</li><li class=\"list-group-item\">30 Day Social Media Campaign</li><li class=\"list-group-item\">Social Analytics</li><li class=\"list-group-item\">Custom Graphics</li><li class=\"list-group-item\">AB Testing</li><br><br><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://form.jotform.com/80151643984157\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 3\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social Premium</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">\n                            $575</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per campaign</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant</li><li class=\"list-group-item\">Social Media Assessment</li><li class=\"list-group-item\">2 Social Media Platforms</li><li class=\"list-group-item\">30 Day Social Media Campaign</li><li class=\"list-group-item\">Social Analytics</li><li class=\"list-group-item\">AB Testing</li><li class=\"list-group-item\">Landing Page</li><li class=\"list-group-item\">Facebook Pixel</li><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://form.jotform.com/80151643984157\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section group=\"Pricing Tables\" data-bg-video=\"{{bg.type == 'video' && bg.value.url}}\" mbr-class=\"{'mbr-parallax-background':bg.parallax}\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input inline type=\"range\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input inline type=\"range\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n\n        <input type=\"checkbox\" title=\"Show Buttons\" name=\"showButtons\" checked>\n        <input type=\"color\" title=\"Card Color\" name=\"cardColor\" value=\"#efefef\">\n        <input type=\"range\" inline title=\"Card Opacity\" name=\"cardOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"1\">\n        \n        <select title=\"Items Count\" name=\"itemsCount\">\n            <option value=\"1\">1</option>\n            <option value=\"2\">2</option>\n            <option value=\"3\">3</option>\n            <option value=\"4\" selected>4</option>\n        </select>\n\n        <fieldset type=\"background\" name=\"bg\" parallax>\n            <input type=\"image\" title=\"Background Image\" value=\"../_images/background3.jpg\">\n            <input type=\"color\" title=\"Background Color\" value=\"#4284df\" selected>\n            <input type=\"video\" title=\"Background Video\" value=\"https://www.youtube.com/watch?v=36YgDDJ7XSc\">\n        </fieldset>\n        <input type=\"checkbox\" title=\"Gradient\" name=\"gradientBg\" condition=\"bg.type == 'color'\">\n        <input type=\"color\" title=\"Color 2\" name=\"color2\" value=\"#0c57bf\" condition=\"bg.type=='color'&&gradientBg\">\n\n        <input type=\"checkbox\" title=\"Overlay\" name=\"overlay\" condition=\"bg.type !== 'color'\">\n        <input type=\"color\" title=\"Overlay Color\" name=\"overlayColor\" value=\"#000000\" condition=\"overlay && bg.type !== 'color'\">\n        <input type=\"range\" inline title=\"Opacity\" name=\"overlayOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.2\" condition=\"overlay && bg.type !== 'color'\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"mbr-overlay\" mbr-if=\"overlay && bg.type!== 'color'\" mbr-style=\"{'opacity': overlayOpacity, 'background-color': overlayColor}\">\n    </div>\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 0\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social 1</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">\n                            $175</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per month</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant\n</li><li class=\"list-group-item\">Social Media Assessment</li><li class=\"list-group-item\">2 Social Media Platforms</li><li class=\"list-group-item\">4 Social Media Post/ Week</li><li class=\"list-group-item\">Social Analytics\n</li><li class=\"list-group-item\">Reputation Monitoring</li><li class=\"list-group-item\">*Instagram (Addl Cost)</li><li class=\"list-group-item\"><br></li><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=175.00&item_name=Custom+Item&currency_code=USD\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 1\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social 2</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">\n                            $275</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per month</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant\n</li><li class=\"list-group-item\">Social Media Assessment</li><li class=\"list-group-item\">4 Social Media Platforms</li><li class=\"list-group-item\">7 Social Media Post/ Week \n</li><li class=\"list-group-item\">Social Analytics\n</li><li class=\"list-group-item\">Reputation Monitoring\n</li><li class=\"list-group-item\">3 Custom Graphics&nbsp;</li><li class=\"list-group-item\">&nbsp;</li><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=275.00&item_name=Custom+Item&currency_code=USD\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 2\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social Plus</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">$325</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per campaign</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant\n</li><li class=\"list-group-item\">Social Media Assessment\n</li><li class=\"list-group-item\">1 Social Media Platform</li><li class=\"list-group-item\">30 Day Social Media Campaign</li><li class=\"list-group-item\">Social Analytics</li><li class=\"list-group-item\">Custom Graphics</li><li class=\"list-group-item\">AB Testing</li><br><br><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=325.00&item_name=Custom+Item&currency_code=USD\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n            <div class=\"plan col-12 mx-2 my-2 justify-content-center\" mbr-if=\"itemsCount > 3\" mbr-class=\"{\n                 'col-lg-4': itemsCount == 3,\n                 'col-lg-6': itemsCount == 2,\n                 'col-lg-3': itemsCount == 4}\">\n                <div class=\"mbr-overlay\"></div>\n                <div class=\"plan-header text-center pt-5\">\n                    <h3 class=\"plan-title mb-3 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".plan-title\">Fan Social Premium</h3>\n                    <div class=\"plan-price\">\n                        <span mbr-text class=\"price-figure mbr-fonts-style\" mbr-theme-style=\"display-1\" data-app-selector=\".price-figure\">\n                            $575</span>\n                        <div mbr-text class=\"price-term mbr-black mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".price-term\">per campaign</div>\n                    </div>\n                </div>\n                <div class=\"plan-body\">\n                    <div class=\"plan-list align-center\">\n                        <ul mbr-text class=\"list-group list-group-flush mbr-fonts-style\" mbr-theme-style=\"display-7\">\n                            <li class=\"list-group-item\">Designated Social Media Consultant</li><li class=\"list-group-item\">Social Media Assessment</li><li class=\"list-group-item\">2 Social Media Platforms</li><li class=\"list-group-item\">30 Day Social Media Campaign</li><li class=\"list-group-item\">Social Analytics</li><li class=\"list-group-item\">AB Testing</li><li class=\"list-group-item\">Landing Page</li><li class=\"list-group-item\">Facebook Pixel</li><li class=\"list-group-item\"><br></li>\n                        </ul>\n                    </div>\n                    <div mbr-buttons mbr-theme-style=\"display-4\" class=\"mbr-section-btn text-center pt-4\" mbr-if=\"showButtons\" data-toolbar=\"-mbrBtnMove\"><a href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amount=575.00&item_name=Custom+Item&currency_code=USD\" class=\"btn btn-primary btn-bgr\">GET STARTED</a></div>\n                </div>\n            </div>\n\n        </div>\n    </div>\n</section>",
           "_cid": "qCvrLo6xoi",
           "_anchor": "pricing-tables3-p",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -720,9 +829,11 @@
           "_cid": "qDVIZBCv4h",
           "_anchor": "content1-1j",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          }
         },
         {
           "_styles": {
@@ -787,8 +898,6 @@
           "_cid": "qCvrp4rFyI",
           "_anchor": "form7-n",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -833,9 +942,31 @@
           "_cid": "qCzBthjVp2",
           "_anchor": "features9-y",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          }
         },
         {
           "_styles": {
@@ -879,9 +1010,31 @@
           "_cid": "qCzCe4cPvw",
           "_anchor": "features9-z",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          }
         },
         {
           "_styles": {
@@ -925,9 +1078,31 @@
           "_cid": "qCzCQuRj9q",
           "_anchor": "features9-10",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.95
+          }
         },
         {
           "_styles": {
@@ -947,9 +1122,27 @@
           "_cid": "qCzSSdCKy1",
           "_anchor": "header9-15",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "showArrow": true,
+            "imageSize": 55,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#00A8C5",
+            "containerColor2": "#FFFF7E",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          }
         },
         {
           "_styles": {
@@ -972,9 +1165,27 @@
           "_cid": "qEC7j9Jexh",
           "_anchor": "header9-2g",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "showArrow": true,
+            "imageSize": 55,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/_background/header3.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "containerColor1": "#00A8C5",
+            "containerColor2": "#FFFF7E",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
+          }
         },
         {
           "_styles": {
@@ -1052,9 +1263,33 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.85
+          }
         },
         {
           "_styles": {
@@ -1132,9 +1367,33 @@
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "contentAlign": "center",
+            "columns": 3,
+            "showFeaturesImages": true,
+            "iconsBgColor": "@primaryColor",
+            "showFeaturesTitles": false,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/02.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fffffd",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=fwkKc6M60-0"
+            },
+            "overlay": true,
+            "overlayColor": "#fffffd",
+            "overlayOpacity": 0.85
+          }
         },
         {
           "_styles": {
@@ -1238,8 +1497,6 @@
           "_cid": "qF7fgdxXLX",
           "_anchor": "pricing-tables2-2k",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -1308,8 +1565,6 @@
           "_cid": "qEDYf6D4HB",
           "_anchor": "form7-2h",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -1371,8 +1626,6 @@
           "_cid": "qEDZW5gjBo",
           "_anchor": "content15-2i",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
           "_params": {}
         },
         {
@@ -1480,9 +1733,18 @@
           "_cid": "qCvqWBrkJE",
           "_anchor": "footer4-m",
           "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          }
         },
         {
           "_styles": {
@@ -2098,8 +2360,6 @@
           "_cid": "qFH828I0PV",
           "_anchor": "menu3-2m",
           "_protectedParams": [],
-          "_global": true,
-          "_once": "menu",
           "_params": {}
         }
       ]
