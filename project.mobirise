@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FANLOW",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "agencym4",
       "title": "AgencyM4",
@@ -34,7 +34,7 @@
       ]
     },
     "versionFirst": "4.5.0",
-    "uniqCompNum": 102,
+    "uniqCompNum": 103,
     "versionPublish": "4.5.4",
     "favicon": "@PROJECT_PATH@/assets/images/fanlow-owl-logo-main-128x191.png",
     "noImageResize": "",
@@ -2742,7 +2742,7 @@
             "Extension"
           ],
           "_name": "pro.custom-html",
-          "_anchor": "custom-html-2s",
+          "_anchor": "custom-html-2u",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
             "<script type=\"text/javascript\" src=\"https://form.jotform.com/jsform/80151643984157\"></script>"
