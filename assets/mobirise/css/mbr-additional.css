@@ -2471,6 +2471,12 @@ body {
 .cid-qFH828I0PV .dropdown-item:hover {
   color: #4284df;
 }
+#custom-html-2v {
+  /* Type valid CSS here */
+}
+#custom-html-2v .my-image {
+  width: 100%;
+}
 .cid-qFH828I0PV .navbar {
   padding: .5rem 0;
   background: #ffffff;
